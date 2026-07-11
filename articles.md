@@ -51,6 +51,7 @@ The post office address ofthe principal office of the Corporation is 5209 Westwo
 
 - **Section 1**. _Number of Directors_. The initial Board of Directors shall becomposed of three (3) members. The number of Directors of the Corporation shall be fixed by the Code of By-Laws of the Corporation, but in no event shall the Code of By-Laws fix the number of Directors at less than three (3) nor more than nine (9).
 - **Section 2**. _Names and Post Office Addresses of the Directors_. The names and post office addresses of the initial Board of Directors are:
+
 | Name | Number and Street or Building | City | State & Zip Code |
 |---|---|---|---|
 | Richard N. Kleisley | 4000 E. South Port Road, Suite 110 | Indianapolis | IN 46227 |
@@ -60,6 +61,7 @@ The post office address ofthe principal office of the Corporation is 5209 Westwo
 ## ARTICLE VIII - Incorporators
 
 - **Section 1**. _Names and Post office Addresses_. The name and post office address of the incorporator of the Corporation is as follows:
+
 | Name | Number and Street or Building | City | State & Zip Code |
 |---|---|---|---|
 | James W. Beatty | 400 Union Federal Building | Indianapolis | IN 46204 |
